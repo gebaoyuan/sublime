@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"Clickable URLs",
+		"Emmet",
+		"FolderFiles",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"LiveStyle",
+		"Package Control"
+	]
+}
