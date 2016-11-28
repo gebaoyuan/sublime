@@ -1,1 +1,1 @@
-# sublime
+# sublime 编辑器插件集合(前端)
