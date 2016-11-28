@@ -6,15 +6,21 @@
 	"installed_packages":
 	[
 		"42 Headers",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Clickable URLs",
 		"Emmet",
 		"FolderFiles",
 		"Git",
 		"HTML-CSS-JS Prettify",
+		"IMESupport",
 		"JavaScript Completions",
 		"jQuery",
+		"LESS",
 		"LiveStyle",
+		"Nodejs",
 		"Package Control"
 	]
 }
