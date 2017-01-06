@@ -2,16 +2,43 @@
 	"folders":
 	[
 		{
+			"path": "E:\\app"
+		},
+		{
 			"path": "E:\\api\\fjdj_api\\src\\main\\webapp"
 		},
 		{
 			"path": "D:\\xampp\\htdocs"
 		},
 		{
-			"path": "D:\\xampp\\apps\\wordpress\\htdocs"
+			"path": "C:\\Users\\John\\Documents\\Tencent Files\\1075452150\\FileRecv\\njyidong2016122801\\njyidong2016122801"
+		},
+		{
+			"path": "C:\\Users\\John\\Documents\\Tencent Files\\1075452150\\FileRecv\\nj2016122001"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\插件\\漂亮的省市区三级联动选择控件JS代码"
 		},
 		{
 			"path": "C:\\Users\\John\\Desktop\\官网\\fjdj_home"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\main\\peoplePage"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\laoxiangmu"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\glup\\app\\参考\\sunxiaobiu.github.io"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\glup\\app\\参考"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\glup\\app\\personPage"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\glup\\app\\blog"
 		}
 	]
 }

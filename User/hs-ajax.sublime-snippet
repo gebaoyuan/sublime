@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+function createXMLHttpRequest() {
+	var XMLHttpReq;
+    try {
+        XMLHttpReq = new ActiveXObject("Msxml2.XMLHTTP"); //IE高版本创建XMLHTTP  
+    } catch (E) {
+        try {
+            XMLHttpReq = new ActiveXObject("Microsoft.XMLHTTP"); //IE低版本创建XMLHTTP  
+        } catch (E) {
+            XMLHttpReq = new XMLHttpRequest(); //兼容非IE浏览器，直接创建XMLHTTP对象  
+        }
+    }
+    return XMLHttpReq;
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>js-ajax</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
