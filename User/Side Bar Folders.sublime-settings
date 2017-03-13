@@ -2,13 +2,31 @@
 	"folders":
 	[
 		{
+			"path": "F:\\迅雷下载\\201501171723"
+		},
+		{
+			"path": "E:\\fjdj_front\\wx_app"
+		},
+		{
 			"path": "E:\\app"
+		},
+		{
+			"path": "E:\\api\\fjdj_api\\src\\main\\webapp\\static\\wechat\\img\\worker"
 		},
 		{
 			"path": "E:\\api\\fjdj_api\\src\\main\\webapp"
 		},
 		{
+			"path": "D:\\迅雷下载\\oss-h5-upload-js-php"
+		},
+		{
+			"path": "D:\\xampp\\htdocs\\oss-h5-upload-js-php"
+		},
+		{
 			"path": "D:\\xampp\\htdocs"
+		},
+		{
+			"path": "C:\\Users\\John\\Documents\\Tencent Files\\1075452150\\FileRecv\\wx庙会2017020601"
 		},
 		{
 			"path": "C:\\Users\\John\\Documents\\Tencent Files\\1075452150\\FileRecv\\njyidong2016122801\\njyidong2016122801"
@@ -29,6 +47,9 @@
 			"path": "C:\\Users\\John\\Desktop\\laoxiangmu"
 		},
 		{
+			"path": "C:\\Users\\John\\Desktop\\html文件"
+		},
+		{
 			"path": "C:\\Users\\John\\Desktop\\glup\\app\\参考\\sunxiaobiu.github.io"
 		},
 		{
@@ -39,6 +60,12 @@
 		},
 		{
 			"path": "C:\\Users\\John\\Desktop\\glup\\app\\blog"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\glup"
+		},
+		{
+			"path": "C:\\Users\\John\\Desktop\\angular\\测试\\angular-phonecat\\app"
 		}
 	]
 }
